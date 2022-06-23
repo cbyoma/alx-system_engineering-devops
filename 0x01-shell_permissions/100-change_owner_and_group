@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod vincent hello, chgrp staff hello
+chmod 755 $(find . -type d)
